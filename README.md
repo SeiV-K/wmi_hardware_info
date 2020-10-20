@@ -9,3 +9,7 @@ Get information about your most common hardware components, like your CPU, GPU, 
 
 ## RUN_ME.bat
 #### Instead of manually activating scripts and then python .py file, just run RUN_ME.bat and it will do the job!
+
+
+## PoC
+![PoC](https://prnt.sc/v340zd)
