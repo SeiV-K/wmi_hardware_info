@@ -12,4 +12,4 @@ Get information about your most common hardware components, like your CPU, GPU, 
 
 
 ## PoC
-![PoC](https://prnt.sc/v340zd)
+![PoC](https://i.imgur.com/7Bofr06.png)
